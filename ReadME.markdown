@@ -94,13 +94,22 @@ record of booked seats .
 1.Go to the Project folder in your system
 
 2.First do the entire setup
- `pip install tkinter`.
- `pip install openpyxl`.
- `pip install smtplib`.
+ `pip install tkinter`,
+ `pip install openpyxl`,
+ `pip install smtplib`,
  
 3.Run `main.py`
 
 4.After completing the booking process close all the windows and run `adminside.py`.
+
+
+## Contributors
+
+- Nishit Jain 
+- Akshay Chopade
+- Deep Patil
+
+
 
 
    
