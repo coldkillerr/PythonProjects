@@ -28,8 +28,7 @@ windows
 > This is the page the user will see when he opens the application or
 > (runs main.py).
 >
-> ![](.//media/image2.png{width="3.5208333333333335in"
-> height="2.5052088801399823in"})
+> ![](.//media/image2.png)
 
 If he is using the application for the first time he can click on
 Register and register himself. Else he can Login using his Credentials
@@ -41,16 +40,14 @@ and move forward
 > users can register using his/her email id and password . Then an email
 > will be sent to his email id , which confirms his/her registration.
 >
-> ![](.//media/image1.png){width="2.6387412510936135in"
-> height="2.213542213473316in"}
+> ![](.//media/image1.png)
 
 1.  Login Screen
 
 > Users who have already registered before can straightaway login using
 > their username,password and start booking.
 >
-> ![](.//media/image3.png){width="2.557292213473316in"
-> height="2.3942432195975503in"}
+> ![](.//media/image3.png)
 
 1.  Now Showing Screen
 
@@ -61,9 +58,7 @@ and move forward
 > to the seat selection Screen where you can select the seats you want
 > to book.
 >
-> ![](.//media/image7.png){width="4.052083333333333in"
-> height="2.2916666666666665in"}![](.//media/image6.png){width="4.020833333333333in"
-> height="3.5416666666666665in"}
+> ![](.//media/image7.png)![](.//media/image6.png)
 
 1.  Seat Selection Screen
 
@@ -72,7 +67,7 @@ and move forward
 > seats . On clicking confirm the seats will be booked and the session
 > code or receipt code will be sent to you via mail.
 
-![](.//media/image5.png){width="6.5in" height="3.9427088801399823in"}
+![](.//media/image5.png)
 
 As you can see in the above image , the seats which have been booked
 already are displayed differently as labels and the available seats are
@@ -85,7 +80,7 @@ counter at the theatre . Now the receipt code which the user has been
 allotted will be entered in the window and the booking will be confirmed
 and he will be allowed entry in the theater.
 
-![](.//media/image4.png){width="3.125in" height="2.8854166666666665in"}
+![](.//media/image4.png)
 
 ***IMPLEMENTATION PLAN***
 
