@@ -87,3 +87,33 @@ We have used PYTHON language and specifically Tkinter toolkit for the
 GUI package. We have used sqlite3 for the database management of the
 users . And we have used MS Excel ( via openpyxl module ) to maintain a
 record of booked seats .
+
+
+## HOW TO RUN LOCALLY 
+
+1.Go to the Project folder in your system
+
+2.First do the entire setup
+ `pip install tkinter`
+ `pip install openpyxl`
+ `pip install smtplib`
+ 
+3.Run `main.py`
+
+4.After completing the booking process close all the windows and run `adminside.py`.
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
