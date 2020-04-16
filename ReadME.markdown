@@ -1,4 +1,4 @@
-***MOVIE TICKET BOOKING SYSTEM***
+#MOVIE TICKET BOOKING SYSTEM
 
 Our project basically manages the ticket booking process of a theater,
 providing an interface to the user to book movie tickets in a more easy
@@ -6,7 +6,7 @@ way. The project proceeds through a sequence of well-designed forms
 provided with validations to ensure consistency, reliability and most
 importantly correctness of information fed into the database
 
-***SOLUTION DESIGN***
+##SOLUTION DESIGN
 
 We used tkinter toolkit for GUI. we Incorporated some widgets which
 better the result screen , so that the user can use the application with
@@ -17,13 +17,13 @@ no confusion. The overall architecture can be thought of having ​two
 
 -   The admin side
 
-***The user side :***
+###The user side :
 
 This portion of the application is exclusively for the user who uses the
 app for booking the tickets.This portion consists of the following
 windows
 
-1.  Home Screen
+####1.  Home Screen
 
 > This is the page the user will see when he opens the application or
 > (runs main.py).
@@ -34,7 +34,7 @@ If he is using the application for the first time he can click on
 Register and register himself. Else he can Login using his Credentials
 and move forward
 
-1.  Register Screen
+####1.  Register Screen
 
 > This page is for users who are using the app for the first time . Here
 > users can register using his/her email id and password . Then an email
@@ -42,14 +42,14 @@ and move forward
 >
 > ![](.//media/image1.png)
 
-1.  Login Screen
+####1.  Login Screen
 
 > Users who have already registered before can straightaway login using
 > their username,password and start booking.
 >
 > ![](.//media/image3.png)
 
-1.  Now Showing Screen
+####1.  Now Showing Screen
 
 > This screen is shown after the login/registration process . It shows a
 > list of the movies currently being shown at the theatre. The user has
@@ -60,7 +60,7 @@ and move forward
 >
 > ![](.//media/image7.png)![](.//media/image6.png)
 
-1.  Seat Selection Screen
+####1.  Seat Selection Screen
 
 > On this screen there is a grid of seats just like the one in a theater
 > . User will have to select the seats of his choice from the available
@@ -73,7 +73,7 @@ As you can see in the above image , the seats which have been booked
 already are displayed differently as labels and the available seats are
 displayed as buttons which can be clicked.
 
-***The admin side :***
+###The admin side :
 
 This portion is for the admin or the owner of the theatre or the booking
 counter at the theatre . Now the receipt code which the user has been
@@ -82,7 +82,7 @@ and he will be allowed entry in the theater.
 
 ![](.//media/image4.png)
 
-***IMPLEMENTATION PLAN***
+##IMPLEMENTATION PLAN
 
 We have used PYTHON language and specifically Tkinter toolkit for the
 GUI package. We have used sqlite3 for the database management of the
