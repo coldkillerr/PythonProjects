@@ -91,26 +91,26 @@ record of booked seats .
 
 ## HOW TO RUN LOCALLY 
 
-1.Go to the Project folder in your system
+1. Go to the Project folder in your system
 
-2.First do the entire setup
- `pip install tkinter`,
- `pip install openpyxl`,
- `pip install smtplib`,
+2. First do the entire setup
+ - `pip install tkinter`,
+ - `pip install openpyxl`,
+ - `pip install smtplib`,
  
-3.Run `main.py`
+3. Run `main.py`
 
-4.After completing the booking process close all the windows and run `adminside.py`.
+4. After completing the booking process close all the windows and run `adminside.py`.
 
 
 ## Contributors
 
 - Nishit Jain 
->[LinkedIn](www.linkedin.com/in/nishit-jain1)
->![GitHub](https://github.com/coldkillerr)
+> - [LinkedIn](www.linkedin.com/in/nishit-jain1)
+> - [GitHub](https://github.com/coldkillerr)
 - Akshay Chopade
->![LinkedIn](https://www.linkedin.com/in/akshay-chopade-19307a172)
->![GitHub](https://github.com/akshay399)
+> - [LinkedIn](https://www.linkedin.com/in/akshay-chopade-19307a172)
+> - [GitHub](https://github.com/akshay399)
 
 - Deep Patil
 
