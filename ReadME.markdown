@@ -24,10 +24,10 @@ windows
 
 #### 1.  Home Screen
 
-> This is the page the user will see when he opens the application or
-> (runs main.py).
->
-> ![](.//media/image2.png)
+ This is the page the user will see when he opens the application or
+ (runs main.py).
+
+ ![](.//media/image2.png)
 
 If he is using the application for the first time he can click on
 Register and register himself. Else he can Login using his Credentials
@@ -35,36 +35,36 @@ and move forward
 
 #### 2.  Register Screen
 
-> This page is for users who are using the app for the first time . Here
-> users can register using his/her email id and password . Then an email
-> will be sent to his email id , which confirms his/her registration.
->
-> ![](.//media/image1.png)
+ This page is for users who are using the app for the first time . Here
+ users can register using his/her email id and password . Then an email
+ will be sent to his email id , which confirms his/her registration.
+
+ ![](.//media/image1.png)
 
 #### 3.  Login Screen
 
-> Users who have already registered before can straightaway login using
-> their username,password and start booking.
->
-> ![](.//media/image3.png)
+ Users who have already registered before can straightaway login using
+ their username,password and start booking.
+
+ ![](.//media/image3.png)
 
 #### 4.  Now Showing Screen
 
-> This screen is shown after the login/registration process . It shows a
-> list of the movies currently being shown at the theatre. The user has
-> to select one among and click confirm.On clicking confirm a poster of
-> that movie will pop up . On clicking on that poster you will be taken
-> to the seat selection Screen where you can select the seats you want
-> to book.
->
-> ![](.//media/image7.png)![](.//media/image6.png)
+ This screen is shown after the login/registration process . It shows a
+ list of the movies currently being shown at the theatre. The user has
+ to select one among and click confirm.On clicking confirm a poster of
+ that movie will pop up . On clicking on that poster you will be taken
+ to the seat selection Screen where you can select the seats you want
+ to book.
+
+ ![](.//media/image7.png)![](.//media/image6.png)
 
 #### 4.  Seat Selection Screen
 
-> On this screen there is a grid of seats just like the one in a theater
-> . User will have to select the seats of his choice from the available
-> seats . On clicking confirm the seats will be booked and the session
-> code or receipt code will be sent to you via mail.
+ On this screen there is a grid of seats just like the one in a theater
+ . User will have to select the seats of his choice from the available
+ seats . On clicking confirm the seats will be booked and the session
+ code or receipt code will be sent to you via mail.
 
 ![](.//media/image5.png)
 
