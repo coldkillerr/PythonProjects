@@ -94,9 +94,9 @@ record of booked seats .
 1.Go to the Project folder in your system
 
 2.First do the entire setup
- `pip install tkinter`
- `pip install openpyxl`
- `pip install smtplib`
+ `pip install tkinter`.
+ `pip install openpyxl`.
+ `pip install smtplib`.
  
 3.Run `main.py`
 
