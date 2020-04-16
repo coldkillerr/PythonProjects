@@ -106,7 +106,12 @@ record of booked seats .
 ## Contributors
 
 - Nishit Jain 
+>![LinkedIn]( "LinkedIn")
+>![GitHub](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 - Akshay Chopade
+>![LinkedIn]( "LinkedIn")
+>![GitHub](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 - Deep Patil
 
 
