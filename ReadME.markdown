@@ -28,8 +28,8 @@ windows
 > This is the page the user will see when he opens the application or
 > (runs main.py).
 >
-> ![](.//media/image2.png){width="3.5208333333333335in"
-> height="2.5052088801399823in"}
+> ![](.//media/image2.png{width="3.5208333333333335in"
+> height="2.5052088801399823in"})
 
 If he is using the application for the first time he can click on
 Register and register himself. Else he can Login using his Credentials
