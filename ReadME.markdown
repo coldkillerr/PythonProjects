@@ -106,10 +106,10 @@ record of booked seats .
 ## Contributors
 
 - Nishit Jain 
->![LinkedIn]( "LinkedIn")
+>![LinkedIn](https://github.com/coldkillerr/movieTicketBookingSystem/blob/master/media/linkedin.png "LinkedIn")
 >![GitHub](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 - Akshay Chopade
->![LinkedIn]( "LinkedIn")
+>![LinkedIn](https://github.com/coldkillerr/movieTicketBookingSystem/blob/master/media/linkedin.png"LinkedIn")
 >![GitHub](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 - Deep Patil
